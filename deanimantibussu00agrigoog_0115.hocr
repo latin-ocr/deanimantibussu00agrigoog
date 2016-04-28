@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deanimantibussu00agrigoog_0115.png"; bbox 0 0 2130 3663; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 192 408 1840 827">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 192 408 1840 827">
+     <span class='ocr_line' id='line_1_1' title="bbox 192 408 1836 537; baseline 0.006 -24"><span class='ocrx_word' id='word_1_1' title='bbox 192 408 497 497; x_wconf 59' lang='lat' dir='ltr'>&#39;Vrfim</span> <span class='ocrx_word' id='word_1_2' title='bbox 1581 450 1704 519; x_wconf 88' lang='lat'>44</span> <span class='ocrx_word' id='word_1_3' title='bbox 1731 456 1836 537; x_wconf 81' lang='lat'>45</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 193 514 1840 625; baseline 0.007 -25"><span class='ocrx_word' id='word_1_4' title='bbox 193 514 545 625; x_wconf 75' lang='lat' dir='ltr'>‘Vulpes</span> <span class='ocrx_word' id='word_1_5' title='bbox 1103 578 1110 585; x_wconf 94' lang='lat'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 1517 554 1611 605; x_wconf 65' lang='grc' dir='ltr'>κο</span> <span class='ocrx_word' id='word_1_7' title='bbox 1641 561 1718 609; x_wconf 80' lang='lat'>21</span> <span class='ocrx_word' id='word_1_8' title='bbox 1752 564 1840 613; x_wconf 67' lang='grc' dir='ltr'>ιι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 197 624 1834 827; baseline 0.002 -106"><span class='ocrx_word' id='word_1_9' title='bbox 197 624 529 725; x_wconf 70' lang='lat' dir='ltr'><strong>Vultm·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 996 731 1078 827; x_wconf 59' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_11' title='bbox 1733 670 1834 749; x_wconf 60' lang='grc' dir='ltr'>μ,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 1400 1852 1613">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 201 1400 1852 1601">
+     <span class='ocr_line' id='line_1_4' title="bbox 201 1400 1852 1485; baseline 0.002 -20.007"><span class='ocrx_word' id='word_1_12' title='bbox 201 1400 351 1475; x_wconf 81' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_13' title='bbox 388 1402 1173 1481; x_wconf 61' lang='lat' dir='ltr'>ANIMANTIBVS</span> <span class='ocrx_word' id='word_1_14' title='bbox 1245 1400 1852 1485; x_wconf 56' lang='lat' dir='ltr'>SVBTERRſtr</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 502 1520 1546 1613; baseline 0.002 -22"><span class='ocrx_word' id='word_1_15' title='bbox 502 1524 728 1599; x_wconf 71' lang='lat' dir='ltr'>,mim</span> <span class='ocrx_word' id='word_1_16' title='bbox 793 1520 1210 1607; x_wconf 65' lang='lat' dir='ltr'>ummls</span> <span class='ocrx_word' id='word_1_17' title='bbox 1261 1523 1546 1613; x_wconf 65' lang='lat' dir='ltr'>runs</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
